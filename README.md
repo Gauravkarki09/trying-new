@@ -1,4 +1,4 @@
 # trying-new
 this is my first repository.
 <br>
-Author - Gaurav singh karki
+Author - Gaurav singh karki (GSK)
